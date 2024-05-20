@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+torch
+torchvision
+pytorch3d
+ipywidgets
